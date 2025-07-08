@@ -51,10 +51,12 @@
           I'm Dharanisri Subramaniam, an engineering student with a passion for data analysis and web development. This portfolio reflects my learning journey and growing expertise in the tech space.
 
 🔗 Connect with Me
+
           * LinkedIn (URL : http://linkedin.com/in/dharanisri-subramaniam)
           * GitHub   (URL : https://github.com/Dharani865/)          
           * LeetCode (URL : https://leetcode.com/u/Dharani_256/)
           * Resume   (https://drive.google.com/file/d/1bS2PXW9xsLHnxfV0RJiNqblRuAJETpWh/view?usp=drivesdk)
 
 📜 License
+
          This project is open source and available under the MIT License.
