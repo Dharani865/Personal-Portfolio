@@ -3,7 +3,10 @@
     🚀 Live Demo »  https://dharani865.github.io/Personal-Portfolio/
        
         
-        ![Preview](https://github.com/user-attachments/assets/c4b5436e-e334-4a59-9df9-26ace1242369)
+        ![Preview](https://github.com/user-attachments/assets/c885c246-ff19-4d95-8f64-8607cbd6ae71)
+
+
+        
 
 
           A modern and responsive portfolio website built to showcase my skills, projects, and professional background as an aspiring Data Analyst with a background in Electronics and Communication Engineering.
