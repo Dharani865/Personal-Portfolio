@@ -2,7 +2,7 @@
    
     🚀 Live Demo »  https://dharani865.github.io/Personal-Portfolio/
 
-    Website Preview
+   Website Preview
 <p align="center"> 
   <kbd>
     <a href=" https://dharani865.github.io/Personal-Portfolio/" target="_blank"><img src="examples/Preview.png">
